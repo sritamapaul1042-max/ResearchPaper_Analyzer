@@ -9,7 +9,7 @@ except Exception:
 
 from core import analyze_paper
 
-st.set_page_config(page_title="Research Paper Analyzer", layout="centered")
+st.set_page_config(page_title="🔬Research Paper Analyzer", layout="centered")
 
 st.title("Research Paper Analyzer")
 

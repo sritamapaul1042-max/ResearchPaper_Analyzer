@@ -11,7 +11,7 @@ from core import analyze_paper
 
 st.set_page_config(page_title="🔬Research Paper Analyzer", layout="centered")
 
-st.title("Research Paper Analyzer")
+st.title("🔬Research Paper Analyzer")
 
 paper_text = st.text_area("Paper text", height=300)
 
